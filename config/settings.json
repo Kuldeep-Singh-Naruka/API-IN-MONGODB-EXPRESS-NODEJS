@@ -1,0 +1,6 @@
+{
+    "apiUrlV1": "/api/v1",
+    "port": 9000,
+    "secret": "Good Things Happening",
+    "isMaintenance": false
+}
